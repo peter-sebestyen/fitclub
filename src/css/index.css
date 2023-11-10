@@ -36,7 +36,7 @@ header h1 {
 @media only screen and (max-width: 950px) {
     header h1 {
         margin: auto;
-        font-size: 8rem;
+        font-size: 6.5rem;
     }
 }
 
